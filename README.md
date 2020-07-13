@@ -4,8 +4,10 @@ The repository contains the code and data collected by scraping an Indian Grocer
 # Overview:
 
 1️⃣ This scraping work is a project related task.
-2️⃣ The site scraped is [JioMart](https://www.jiomart.com), which is under BETA Testing.
-3️⃣ Data Scraped is - Product Description,Image URLs and Price
+
+2️⃣ The site scraped is **[JioMart](https://www.jiomart.com)**, which is under *BETA Testing.*
+
+3️⃣ Data Scraped is - ***Product Description,Image URLs*** and ***Price***
 
 #  Tools and Modules Used
 
